@@ -52,10 +52,10 @@ class VisualizeNeuralNetworkCategorization(Scene):
         self.add(graphing_stuff)
 
         self.play(
-            Create(boundaries),  # Transición en opacidad (Alfa) para la imagen
-            Create(axes),  # Trazado de contornos para los ejes
-            Write(labels),  # Renderizado de texto
-            *(Create(obj) for obj in data),  # Trazado de los puntos
+            Create(boundaries),
+            Create(axes),
+            Write(labels),
+            *(Create(obj) for obj in data),
         )
         self.wait(2)
         self.play(graphing_stuff.animate.scale(0.35).shift(LEFT * 5), run_time=2)
