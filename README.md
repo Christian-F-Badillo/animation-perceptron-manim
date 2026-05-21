@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/63dc0919-e5d7-42dc-80fd-aca1d3dac3b8
-
 # Animación de Entrenamiento de Perceptrón Multicapa
 
 En este repositorio se incluye el código para la animación del proceso de entrenamiento de un perceptrón multicapa hecho desde 0 en Python 3.12.
