@@ -3,6 +3,10 @@
 En este repositorio se incluye el código para la animación del proceso de entrenamiento de un perceptrón multicapa hecho desde 0 en Python 3.12.
 Para la animación se uso la famosa paqueteria de [Manim](https://www.manim.community/).
 
+## Animación Objetivo
+
+<video src="render/VisualizeNeuralNetworkCategorization.mp4" width="100%" controls autoplay loop muted></video>
+
 ## Intalación
 
 Para correr la renderización de la animación es necesario clonar el repositorio de Github.
