@@ -1,7 +1,7 @@
 # Animación de Entrenamiento de Perceptrón Multicapa
 
 En este repositorio se incluye el código para la animación del proceso de entrenamiento de un perceptrón multicapa hecho desde 0 en Python 3.12.
-Para la animación se uso la famosa paqueteria de [Manim](https://www.manim.community/).
+Para la animación se uso la famosa paqueteria [Manim](https://www.manim.community/) para animaciones matemáticas con python.
 
 ## Animación Objetivo
 
@@ -9,7 +9,7 @@ Para la animación se uso la famosa paqueteria de [Manim](https://www.manim.comm
 ](https://github.com/user-attachments/assets/63dc0919-e5d7-42dc-80fd-aca1d3dac3b8
 )
 
-## Intalación
+## Instalación
 
 Para correr la renderización de la animación es necesario clonar el repositorio de Github.
 
